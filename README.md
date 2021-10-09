@@ -1,24 +1,6 @@
-# 04-pokemon-game
+# POKE-GAME
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Aplicación realizada con VUE 3. <br>
+Es un juego donde se debe elegir entre 4 nombres de Pokemon coincidiendo con la sombra mostrada.
+Link de la app en producción -> <br>
+https://pokeqa.netlify.app/
